@@ -1,1 +1,10 @@
 /* Write your CSS here */
+.app-container {
+  background-color: #000000;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #00e7ff;
+}
